@@ -7,5 +7,7 @@ output: file of all numpy arrays saved in same directory (.npz)
 
 ### To run script:
 
-> python DicomToNumpy.py <input file> <destination file> 
+```properties
+python DicomToNumpy.py <input file> <destination file> 
+```
   
