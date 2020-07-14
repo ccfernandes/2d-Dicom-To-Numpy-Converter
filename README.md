@@ -1,2 +1,11 @@
 # 2d-Dicom-To-Numpy-Converter
-Basic Python script that converts 2D Dicom (DCM) image to a numpy array (saved as .npz)
+* Basic Python script that converts 2D Dicom (DCM) images to a numpy arrays (saved as .npz)
+* Good for use with 2D sequential CNN 
+
+input: file path csv file of all dicom image file paths. (.csv) 
+output: file of all numpy arrays saved in same directory (.npz)
+
+### To run script:
+
+> python DicomToNumpy.py <input file> <destination file> 
+  
