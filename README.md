@@ -9,6 +9,6 @@
 ### To run script:
 
 ```properties
-python DicomToNumpy.py <input file> <destination file> <# of rows> <# of columns>
+python DicomToNumpy.py <input file> <destination file> <num of rows> <num of columns>
 ```
   
